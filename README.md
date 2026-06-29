@@ -18,6 +18,8 @@ Modern e-commerce clothing brand.
 
 🔗 https://noelle-shop.onrender.com
 
+*Hosted on Render's free tier and may take a minute to load if inactive.*
+
 ### ✝️ The Religious
 Community-focused website.
 

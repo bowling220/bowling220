@@ -14,7 +14,8 @@ Game studio branding and development work for interactive game projects.
 🔗 https://gamboxhire.framer.website
 
 ### 👕 NOÉLLE
-A modern e-commerce clothing brand website with a polished storefront experience.
+A modern e-commerce clothing brand website with a polished storefront experience.  
+*This project may take a minute to load if the server is inactive.*
 
 🔗 https://noelle-shop.onrender.com
 

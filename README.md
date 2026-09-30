@@ -1,78 +1,40 @@
 # Hi, I'm Blaine Oler 👋
 
-**Software Developer • Game Developer • Mobile App Builder**
+I'm a Software Engineer Apprentice at Erie Insurance, where I work on web development and automation, use SQL daily, and build tools that work with APIs. Outside of work, I build mobile apps, games, websites, and AI-powered tools.
 
-I build websites, apps, games, and AI-powered tools. I enjoy taking ideas from concept to a working product, whether it's a full-stack web application, mobile app, game, or automation tool.
-
----
-
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🎮 Gambox Entertainment
-Game studio branding and development.
-
-🔗 https://gamboxhire.framer.website
+Game studio branding and development.  
+[Visit Gambox Entertainment](https://gamboxhire.framer.website)
 
 ### 👕 NOÉLLE
-Modern e-commerce clothing brand.
-
-🔗 https://noelle-shop.onrender.com
-
-*Hosted on Render's free tier and may take a minute to load if inactive.*
+An e-commerce clothing brand and website.  
+[Visit NOÉLLE](https://noelle-shop.onrender.com)
 
 ### ✝️ The Religious
-Community-focused website.
+A community-focused website.  
+[Visit The Religious](https://thereligious.onrender.com)
 
-🔗 https://thereligious.onrender.com
+*The Render-hosted sites may take a minute to load after being inactive.*
 
-*Hosted on Render's free tier and may take a minute to load if inactive.*
+## Technologies
 
----
+**Languages:** C#, JavaScript, TypeScript, Python, SQL, Lua, HTML, CSS  
+**Web and mobile:** React, React Native, Expo, Node.js, Tailwind CSS  
+**Tools and platforms:** Git, GitHub, Firebase, Supabase  
+**Game and creative:** Roblox Studio, Unity, Unreal Engine, Blender
 
-## 💻 What I Build
+## What I'm Working On
 
-- Full-stack web applications
-- React & React Native apps
+- Web applications and automation
+- Mobile apps with React Native
 - AI-powered tools
-- Game projects
-- E-commerce websites
-- Automation software
-
----
-
-## 🛠️ Technologies
-
-**Languages**
-
-JavaScript • TypeScript • Python • Lua • SQL • HTML • CSS
-
-**Frameworks & Tools**
-
-React • React Native • Expo • Node.js • Firebase • Supabase • Tailwind CSS • Git • GitHub
-
-**Game & Creative Tools**
-
-Roblox Studio • Unity • Unreal Engine • Blender
-
----
-
-## 🎯 Current Focus
-
-- AI applications
-- Mobile development
-- Full-stack platforms
 - Game development
-- Building products people enjoy using
 
----
+## Links
 
-## 🌐 Links
-
-- GitHub: https://github.com/bowling220
-- Gambox Entertainment: https://gamboxhire.framer.website
-- NOÉLLE: https://noelle-shop.onrender.com
-- The Religious: https://thereligious.onrender.com
-
----
-
-> Build it. Ship it. Improve it.
+- [GitHub](https://github.com/bowling220)
+- [Gambox Entertainment](https://gamboxhire.framer.website)
+- [NOÉLLE](https://noelle-shop.onrender.com)
+- [The Religious](https://thereligious.onrender.com)
